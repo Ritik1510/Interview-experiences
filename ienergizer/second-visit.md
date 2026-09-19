@@ -20,7 +20,7 @@ I couldn't find any individual client names in public sources. That is common fo
 
 They handle customer interactions over voice, chat and email, covering inquiries, technical support, account management and issue resolution, with performance monitoring and quality standards. In practice, a bank might hand over its collections calls, a health insurer its claims processing, and a gaming company its player support. iEnergizer describes itself as an extension of its clients' operations rather than just an outsourcing vendor. Its pitch is high-quality service at lower operating cost.
 
-### Fresher applications: 
+## Fresher applications: 
 
 For a fresher, iEnergizer mostly hires for customer-facing support roles, and most of the openings I found were in Noida.
 
