@@ -1,5 +1,5 @@
-### company: ienergizer (A-37 noida sec 60)
-### Description: 
+# company: ienergizer (A-37 noida sec 60)
+## Description: 
 **iEnergizer** is a business process outsourcing (BPO) company, which means other companies pay it to run parts of their operations, mainly customer support and back-office work.
 
 **Who they are**
@@ -44,7 +44,7 @@ Reviews on Glassdoor rate the difficulty as fairly low, about 2.69 out of 5, wit
 - Apply through the company's official site (ienergizerbpo.com) or a verified job portal. Many of the postings I found are third-party HR posts with WhatsApp numbers and dated salaries, so treat those figures as rough. Don't pay any fee for a job.
 
 -----
-
+## Description by gemini: 
 iEnergizer is a major global Business Process Outsourcing (BPO) and digital content solutions company. Founded in 2000, the company is headquartered in Noida, India, and employs over 27,000 professionals across multiple delivery centers worldwide. 
 The company acts as a strategic third-party partner for Fortune 500 corporations and market leaders, helping them handle their back-end workloads, customer relations, and data processing. 
 🔎 What iEnergizer Does 
@@ -80,7 +80,7 @@ AI responses may include mistakes.
 
 ------ 
 
-### Role: Customer support 
+## Role: Customer support 
 For iEnergizer customer support roles, the process is fairly simple but can be long. Reviews on Glassdoor describe 2 to 4 short rounds. The exact order varies by process, and the reviews are anonymous.
 
 **The usual rounds**
